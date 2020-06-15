@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KeyboardSamples</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_date_of_birth">Enter Date Of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+
+    <string-array name="spinner_label">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+</resources>
